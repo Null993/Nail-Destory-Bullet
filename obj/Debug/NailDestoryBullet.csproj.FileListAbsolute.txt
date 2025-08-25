@@ -1,8 +1,0 @@
-D:\steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\NailDestoryBullet.dll
-D:\steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\NailDestoryBullet.pdb
-D:\Hk_mod\NailDestoryBullet\obj\Debug\NailDestoryBullet.csproj.AssemblyReference.cache
-D:\Hk_mod\NailDestoryBullet\obj\Debug\NailDestoryBullet.csproj.CoreCompileInputs.cache
-D:\Hk_mod\NailDestoryBullet\obj\Debug\NailDestoryBullet.dll
-D:\Hk_mod\NailDestoryBullet\obj\Debug\NailDestoryBullet.pdb
-D:\steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\NailDestoryBullet\NailDestoryBullet.dll
-D:\steam\steamapps\common\Hollow Knight\hollow_knight_Data\Managed\Mods\NailDestoryBullet\NailDestoryBullet.pdb
