@@ -18,6 +18,7 @@
     - 游戏逻辑出现 BUG 或意外情况  
 
 ### 使用方法
+0. 安装[Satchel](https://github.com/PrashantMohta/Satchel)
 1. 将本模组放入 Hollow Knight 的 `Mods` 文件夹。  
 2. 启动游戏后在 Mod 菜单中启用本模组。  
 3. 如需开启实验性功能，请在 Mod 配置中勾选对应选项。  
@@ -48,6 +49,7 @@
 
 
 ### How to Use
+0. Install [Satchel](https://github.com/PrashantMohta/Satchel)
 1. Place the mod into your Hollow Knight `Mods` folder.  
 2. Enable the mod from the Mod menu in-game.  
 3. To enable the experimental feature, check the option in the mod configuration.  
